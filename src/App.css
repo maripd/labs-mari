@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+
+.suggested-city:hover {
+  background-color:#d0d7fe;
+}
